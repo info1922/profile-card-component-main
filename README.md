@@ -10,7 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://profile-card-component-main-gold-eight.vercel.app)
 
 ## My process
 
